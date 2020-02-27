@@ -1,3 +1,5 @@
+$('#Anuncios').modal('show');
+
 jQuery(document).ready(function($) {
 
   // Header fixed and Back to top button
